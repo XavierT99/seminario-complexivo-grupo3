@@ -15,7 +15,7 @@ Predicción del éxito comercial de videojuegos y análisis de factores clave pa
 **Objetivos**
 Construir un sistema de analítica completo que:
 
-* mplemente un pipline de limpieza de datos robusto para mejorar múltiples tipos de datos faltantes y erróneos.
+* Implemente un pipline de limpieza de datos robusto para mejorar múltiples tipos de datos faltantes y erróneos.
 
 * Realizar un análisis exploratorio de datos para identificar las plataformas, generos y calificaciones que han dominado el mercad, especialmente en el periodo post 2013.
 
